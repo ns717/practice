@@ -14,7 +14,6 @@ public class MergeTwoSortedList {
 			mergeList(list1, list2);
 		} else {
 			mergeList(list2, list1);
-			Map<Integer,Integer> map = new HashMap<Integer,Integer>();
 		}		
 		
 	}

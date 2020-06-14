@@ -8,7 +8,9 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Solution {
+// solution of hackerRank hashMap puzzle
+//https://www.hackerrank.com/challenges/frequency-queries/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps
+public class FrequencyQueries {
 
 	// Complete the freqQuery function below.
 	static List<Integer> freqQuery(List<List<Integer>> queries) {
