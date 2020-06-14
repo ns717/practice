@@ -21,7 +21,7 @@ public class Esko {
 			String[] i = scanner.nextLine().split("=");
 			String name = i[0];
 			String value = i[1];
-			valueTableWithVars.put(name.trim(), value.trim());
+			valueTableWithVars.put(name.trim(), value.trim());			
 		}
 		scanner.close();
 
